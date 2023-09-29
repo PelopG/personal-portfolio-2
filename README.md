@@ -1,2 +1,20 @@
-# personal-portfolio-2
- This project is about the update version for my personal portfolio website
+# Portfolio Website
+
+Welcome to my personal portfolio website. I set out to build a portolio website for the second time to practice more of my skills on web-development.
+Another reason is because I wanted my portfolio to be a single page rather than having different pages and need to go back and forth each time.
+
+## Skills
+
+- Development of new knowledge and understanding of javascript, css and html.
+- New skill on how to debug code for web development.
+
+## Usage
+
+Feel free to walk around my website and if you found it interesting let me know.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+Since I have not yet developed the all the skills to create a website I have followed John Doe video 
+(https://www.youtube.com/watch?v=ldwlOzRvYOU)
